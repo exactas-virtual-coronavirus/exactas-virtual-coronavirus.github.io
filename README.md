@@ -6,14 +6,13 @@ alrededor de las "clases virtuales". Esta modalidad, planteada desde las gestion
 
 1. [Declaraciones de sindicatos y organizaciones políticas](#declaraciones-de-sindicatos-y-organizaciones)
   * [Declaración del Partido Obrero](#declaración-partido-obrero)
-  * [Declaración de AGD Exactas](https://www.facebook.com/AGD.FCEyN/posts/1356171674569195)
+  * [Declaración AGD Exactas](#declaración-agd-exactas)
   * [Declaración del CECEN](#declaración-cecen)
+  * [Declaración de ADUNLU - Docentes de la Univ. de Luján](https://www.facebook.com/notes/adunlu/es-posible-la-continuidad-pedag%C3%B3gica/1293491900841133/)
 2. [Declaraciones Departamentos de Facultad de Cs. Exactas y Naturales](#declaraciones-departamentos-exactas)
   * [Computación][#declaracion-dc]
 2. [Comunicados de Facultades de la UBA](#uba)
   * [Arquitectura, Diseño y Urbanismo](#fadu)  
-  * Sociales
-  * Filo
 3. [Otras Universidades](#otras)
 4. [Otras notas](#notas)
   * [¿Por qué es necesario el aprobado y promoción Automática? ABC España](https://www.abc.es/familia/educacion/abci-necesario-aprobado-general-y-promocion-automatica-curso-202003270217_noticia.html)
@@ -25,6 +24,30 @@ alrededor de las "clases virtuales". Esta modalidad, planteada desde las gestion
 
 [Link](https://prensaobrera.com/universidad/68410-coronavirus-cuarentena-y-las-cursadas-en-la-universidad)
 
+### Declaración AGD Exactas
+
+[Link](https://www.facebook.com/AGD.FCEyN/posts/1356171674569195)
+
+
+* Trabajar durante la cuarentena, una tarea irrealizable
+
+  «Tanto docentes como estudiantes hemos visto las actividades, la vida personal y familiar profundamente alteradas por la cuarentena obligatoria. Nuestras casas se han convertido en un espacio compartido con nuestrxs hijxs y familia, así como el lugar de ocio, descanso, trabajo y estudio de todxs lxs habitantes de las mismas. A su vez muchxs de lxs docentes nos encontramos al cuidado de adultxs mayores o de población vulnerable (o inclusive de familiares enfermxs)»
+
+* Falta de elementos, espacio y recursos
+
+  «Por otro lado, muchxs docentes no contamos en nuestras viviendas con elementos como pizarrones, micrófonos o cámaras web para desarrollar videos aceptables, e inclusive no contamos con una espacio específico de nuestras casas para “dar una clase”, en silencio o con la posibilidad de interactuar con nuestrxs estudiantes, acorde a la demanda que se estaría planteando.»
+
+* Estudiantes sin acceso
+
+  «Esta modalidad requiere que contemplemos a nuestrxs estudiantes, ya que no todxs cuentan en sus hogares con conectividad a internet y con los dispositivos tecnológicos necesarios para abordar este tipo de modalidad. No contemplar esto implicará un golpe para aquellxs estudiantes que no puedan acceder a las condiciones materiales y recursos necesarios que requerirá la modalidad a distancia que de esta manera, perderán una buena parte del cuatrimestre. Este desconocimiento de la situación material de distintxs estudiantes (y también docentes) favorece la reproducción de desigualdades por el acceso al conocimiento y perjudica sensiblemente a los sectores que no cuenten con estos recursos.»
+
+
+* Convertir un curso en virtual no es trivial
+
+  «Al día de la fecha no hay ninguna precisión acerca de la capacitación en diseño y armado de cursos virtuales, ni de estructuración de los contenidos, que recibiríamos lxs docentes de la facultad (solo se mencionaron informalmente espacios de asesorías virtuales). Esto implicaría que los cursos a distancia -en muchos casos- simplemente reproduzcan la modalidad de los cursos presenciales (cursos donde se suben videos con tutoriales, guías u orientaciones teóricas, y luego se demanda a lxs estudiantes que resuelvan las guías prácticas por su cuenta y se los evalúa), los cuales se caracterizan por tener una alta deserción y una baja tasa de aprobación por parte de lxs estudiantes.
+
+  Numerosas clases de distintas materias de la facultad se caracterizan por estar centradas en el discurso del/la docente, por lo que lxs docentes de la facultad, en su gran mayoría, no hemos explorado nunca esta reformulación de la modalidad de clases. (...) Por todo esto, para la correcta planificación, el diseño e implementación de este tipo de cursos a distancia, lxs docentes deberíamos recibir una verdadera capacitación docente (algo que menciona el convenio colectivo de trabajo que la UBA se niega a aplicar) y no simplemente asesorías, tutoriales, consejos o “tips” sobre como armar los cursos a distancia.»
+
 
 ### Declaración CECEN
 [Link](https://www.facebook.com/CECEN.UBA/photos/a.541108565903116/4089131184434152/?type=3&theater)
@@ -35,8 +58,14 @@ Por otro lado, llama a que toda la carga caiga sobre los docentes en un contexto
 
 «Autoridades, docentes y estudiantes **debemos estar comprometides en hacer todo el trabajo necesario** para que nadie pierda el cuatrimestre o atrase su carrera por esta situación excepcional, sobre todo garantizando las condiciones para aquellos estudiantes con dificultades para acceder a los recursos para las modalidades virtuales»
 
+
 ## Declaraciones Departamentos Exactas
 
+### Departamento de Computación
+
+### Departamento de Física
+
+### Química Inorgánica
 
 
 ## UBA
