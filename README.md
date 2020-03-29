@@ -15,6 +15,7 @@ alrededor de las "clases virtuales" en Exactas, UBA. Esta modalidad, planteada d
 3. [Otras Universidades](#otras)
 4. [Otras notas](#notas)
   * [¿Por qué es necesario el aprobado y promoción Automática? ABC España](https://www.abc.es/familia/educacion/abci-necesario-aprobado-general-y-promocion-automatica-curso-202003270217_noticia.html)
+  * [Educar en tiempos de pandemia, por Guillermo Mastrini (director Comunicación social UNQ)](#educar-en-tiempos-de-pandemia)
 
 
 ## Declaraciones de sindicatos y organizaciones
@@ -108,3 +109,33 @@ Interesante comunicado que traza varias problemáticas por las cuales no se pued
 
 
 ### Exactas
+
+### Otras Notas
+
+#### Educar en tiempos de pandemia
+
+Nota de Guillermo Mastrini, Dr. en Comunicación Social y Docente en la UNQ:     
+
+Las que siguen son unas reflexiones que surgen de la experiencia que estoy enfrentando como profesor universitario en relación a la pandemia. No soy especialista en educación, ni creo que sean generalizables, pero sí me parece importante que el sistema educativo repiense algunas cosas:
+
+1. No estábamos preparados para una situación así. El sistema educativo en general se asume como una continuidad que no contempla la irrupción de un fenómeno que genera tanta incetidumbre. Es necesario repensar qué es y cómo enseñar/aprender en este nuevo contexto.
+
+2. Todo está alterado y no se puede pretender que seguimos como si nada. No me parece adecuado, ni mucho menos pedagógico, tratar con normalidad situaciones anormales. Me parece que esto no está siendo considerado institucionalmente en el sistema educativo en general. No da para que hagamos como si.
+
+3. Los hogares de estudiantes y profesoras/es no están preparados para una situación como esta, donde es altamente probable que convivan varias personas todo el día durante varias horas, y donde la posibilidad de enseñar/aprender se intercala con cientos de relaciones y tareas no educativas.
+
+4. Profesoras/es que son madres, cocineros, psicólogas, pero que también tienen momentos de desgano, de necesidad de aislamiento. Bien distante de sus rutinas habituales.
+
+5. Alumnas/os que pueden ser hijos, nietos, dinamizadores del núcleo familiar pero que también sufren por falta de espacios al aire libre, contacto con sus amigos/as. Bien distante de sus rutinas habituales.
+
+6. A todo esto habría que agregarle que los recursos tecnólogicos e incluso las habilidades informáticas de profesores y estudiantes es bien dispar. Y esto no se soluciona con un curso en moodle o una entrada a google classroom.
+
+7. Más allá del entorno en que demos la clase, hay que entender que estamos psicológicamente alterados por una situación como la pandemia. Por lo tanto no es custión de reemplazar presencial por virtual, ni siquiera virtual por virtual. Esto es virtual con pandemia.
+
+8. La capacidad de concentración, fundamental para el proceso de enseñanza/ aprendizaje se ve completamente alterada por esta situación. Varios colegas me comentan que teniendo más tiempo, están leyendo menos que lo habitual.
+
+9. No estamos en condiciones de exigir nada. Ni a profesores/as ni a los/as estudiantes. No es grave si se pierde un cuatrimestre en este contexto.
+
+10. Considerando todo lo expresado hasta aquí, mi objetivo es tratar de sostener encuentros con mis alumnos/as que les permitan acercarse a algunos conocimientos y reflexiones básicas sobre las materias que dicto. De ninguna manera considero que se puede dar un curso normal. Mucho menos evaluar.
+
+11. Creo que el mayor aprendizaje que podemos alcanzar entre quienes procuran enseñar y quienes procuran aprender es reflexionar sobre la sociedad en la que vivimos, con sus virtudes y sus defectos. Tratar de comprender el tiempo que nos toca vivir. Nada más y nada menos.
