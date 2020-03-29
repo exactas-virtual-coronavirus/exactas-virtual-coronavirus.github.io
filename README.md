@@ -1,27 +1,30 @@
 # Coronavirus y Clases virtuales en Exactas UBA
 
 Esta página pretende ser un racconto de artículos y declaraciones acerca de la polémica generada
-alrededor de las "clases virtuales" en el contexto de la pandemia del Coronavirus en varias Facultades de la Universidad de Buenos Aires.
+alrededor de las "clases virtuales" en el contexto de la pandemia del Coronavirus en varias Facultades de la Universidad de Buenos Aires, particularmente en la Facultad de Cs. Exactas y Naturales
 
 
-1. Declaraciones de sindicatos y organizaciones políticas
-  * [Declaración del Partido Obrero](https://prensaobrera.com/universidad/68410-coronavirus-cuarentena-y-las-cursadas-en-la-universidad)
+1. [Declaraciones de sindicatos y organizaciones políticas](#declaraciones)
+  * [Declaración del Partido Obrero](#declaración-partido-obrero)
   * [Declaración de AGD Exactas](https://www.facebook.com/AGD.FCEyN/posts/1356171674569195)
 
-1. [Comunicados de Facultades de la UBA](#uba)
-  * Arquitectura, Diseño y Urbanismo  
+2. [Comunicados de Facultades de la UBA](#uba)
+  * [Arquitectura, Diseño y Urbanismo](#fadu)  
   * Sociales
   * Filo
-2. [Otras Universidades](#otras)
-3. [Otras notas](#notas)
+3. [Otras Universidades](#otras)
+4. [Otras notas](#notas)
   * [¿Por qué es necesario el aprobado y promoción Automática? ABC España](https://www.abc.es/familia/educacion/abci-necesario-aprobado-general-y-promocion-automatica-curso-202003270217_noticia.html)
-  * []
 
 
+## Declaraciones
+
+### Declaración Partido Obrero
+
+[Link](https://prensaobrera.com/universidad/68410-coronavirus-cuarentena-y-las-cursadas-en-la-universidad)
 
 
-
-## Declaraciones de UBA
+## UBA
 
 ### FADU
 
