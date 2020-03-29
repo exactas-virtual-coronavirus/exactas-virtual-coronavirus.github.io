@@ -1,8 +1,7 @@
 # Coronavirus y Clases virtuales en Exactas UBA
 
 Esta página pretende ser un racconto de artículos y declaraciones acerca de la polémica generada
-alrededor de las "clases virtuales". Esta modalidad, planteada desde las gestiones como salida
-
+alrededor de las "clases virtuales" en Exactas, UBA. Esta modalidad, planteada desde las gestiones como salida ante la pandemia del Coronavirus, ha generado numerosos debates que intentan ser plasmados en los distintos artículos y declaraciones.
 
 1. [Declaraciones de sindicatos y organizaciones políticas](#declaraciones-de-sindicatos-y-organizaciones)
   * [Declaración del Partido Obrero](#declaración-partido-obrero)
