@@ -1,13 +1,15 @@
 # Coronavirus y Clases virtuales en Exactas UBA
 
 Esta página pretende ser un racconto de artículos y declaraciones acerca de la polémica generada
-alrededor de las "clases virtuales" en el contexto de la pandemia del Coronavirus en varias Facultades de la Universidad de Buenos Aires, particularmente en la Facultad de Cs. Exactas y Naturales
+alrededor de las "clases virtuales". Esta modalidad, planteada desde las gestiones como salida
 
 
-1. [Declaraciones de sindicatos y organizaciones políticas](#declaraciones)
+1. [Declaraciones de sindicatos y organizaciones políticas](#declaraciones-de-sindicatos-y-organizaciones)
   * [Declaración del Partido Obrero](#declaración-partido-obrero)
   * [Declaración de AGD Exactas](https://www.facebook.com/AGD.FCEyN/posts/1356171674569195)
-
+  * [Declaración del CECEN](#declaración-cecen)
+2. [Declaraciones Departamentos de Facultad de Cs. Exactas y Naturales](#declaraciones-departamentos-exactas)
+  * [Computación][#declaracion-dc]
 2. [Comunicados de Facultades de la UBA](#uba)
   * [Arquitectura, Diseño y Urbanismo](#fadu)  
   * Sociales
@@ -17,11 +19,24 @@ alrededor de las "clases virtuales" en el contexto de la pandemia del Coronaviru
   * [¿Por qué es necesario el aprobado y promoción Automática? ABC España](https://www.abc.es/familia/educacion/abci-necesario-aprobado-general-y-promocion-automatica-curso-202003270217_noticia.html)
 
 
-## Declaraciones
+## Declaraciones de sindicatos y organizaciones
 
 ### Declaración Partido Obrero
 
 [Link](https://prensaobrera.com/universidad/68410-coronavirus-cuarentena-y-las-cursadas-en-la-universidad)
+
+
+### Declaración CECEN
+[Link](https://www.facebook.com/CECEN.UBA/photos/a.541108565903116/4089131184434152/?type=3&theater)
+
+Comunicado del CECEN (**votado por Identidad -La Cámpora- y el FEM - La Mella-**), instando a que «la Facultad y a los departamentos docentes que tomen las medidas necesarias para que todes les estudiantes puedan cursar la cantidad de materias correspondientes de acuerdo a lo que los planes de estudios sugieren a partir del 13 de abril, ya sea de manera presencial o virtual.».
+
+Por otro lado, llama a que toda la carga caiga sobre los docentes en un contexto de crisis generalizada, con docentes hacinados, sin los materiales necesarios, y demás:
+
+«Autoridades, docentes y estudiantes **debemos estar comprometides en hacer todo el trabajo necesario** para que nadie pierda el cuatrimestre o atrase su carrera por esta situación excepcional, sobre todo garantizando las condiciones para aquellos estudiantes con dificultades para acceder a los recursos para las modalidades virtuales»
+
+## Declaraciones Departamentos Exactas
+
 
 
 ## UBA
