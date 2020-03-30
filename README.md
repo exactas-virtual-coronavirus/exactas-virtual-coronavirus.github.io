@@ -9,11 +9,11 @@ alrededor de las "clases virtuales" en Exactas, UBA. Esta modalidad, planteada d
   * [Declaración del CECEN](#declaración-cecen)
   * [Declaración de ADUNLU - Docentes de la Univ. de Luján](https://www.facebook.com/notes/adunlu/es-posible-la-continuidad-pedag%C3%B3gica/1293491900841133/)
 2. [Declaraciones Departamentos de Facultad de Cs. Exactas y Naturales](#declaraciones-departamentos-exactas)
-  * [Computación][#declaracion-dc]
-2. [Comunicados de Facultades de la UBA](#uba)
+  * [Computación](#computación)
+3. [Comunicados de Facultades de la UBA](#uba)
   * [Arquitectura, Diseño y Urbanismo](#fadu)  
-3. [Otras Universidades](#otras)
-4. [Otras notas](#notas)
+4. [Otras Universidades](#otras)
+5. [Otras notas](#notas)
   * [¿Por qué es necesario el aprobado y promoción Automática? ABC España](https://www.abc.es/familia/educacion/abci-necesario-aprobado-general-y-promocion-automatica-curso-202003270217_noticia.html)
   * [Educar en tiempos de pandemia, por Guillermo Mastrini (director Comunicación social UNQ)](#educar-en-tiempos-de-pandemia)
 
@@ -61,7 +61,34 @@ Por otro lado, llama a que toda la carga caiga sobre los docentes en un contexto
 
 ## Declaraciones Departamentos Exactas
 
-### Departamento de Computación
+### Computación
+
+Declaración de la dirección del Departamento de Computación
+
+«Queridos docentes,
+
+Llegamos al final de una semana muy dura, con muchos cambios en la Facultad, pero, sobre todo, con muchos cambios en nuestras vidas. Estamos todos preocupados, con mucha incertidumbre. Tratemos de que nuestro trabajo como docente no nos angustie, no nos agobie, porque ya tenemos muchas otras cosas de qué preocuparnos.
+
+Varios nos escribieron preocupados con preguntas acerca de cómo se implementará el cuatrimestre virtual, que empezaría el 13 de abril. Primero, quiero decirles que no es obligatorio dictar de forma virtual. Los profesores están evaluando si su materia puede o no funcionar de manera virtual. Según el relevamiento que hicimos a principios de la semana, la gran mayoría de las materias del DC se podría dar a distancia, pero algunos piensan que, a causa de los temas o de la dinámica, resultaría imposible o incluso contraproducente para el estudiante. No quiero presionar a nadie; me interesa que cada uno evalúe su caso independiente del resto. Segundo, para ser honesto, hay pocas decisiones tomadas hasta ahora por la Facultad acerca de la implementación de un cuatrimestre virtual. Sin embargo, veo en todas las autoridades muchas ganas de ayudar a los estudiantes y a los docentes a transitar este próximo cuatrimestre de la mejor manera posible. Algunas preguntas que nos hicieron son:
+
+- ¿Se postergará la fecha de finalización del cuatrimestre?
+Aunque no hay ninguna decisión todavía, la idea que maneja la Facultad es que sí.
+
+- ¿Cómo evaluamos virtualmente?
+Nadie sabe. Será una de las cosas que hay que pensar. Lo que sí sabemos es que para la aprobación deberá haber una instancia de evaluación presencial en el momento en que pueda hacerse. Esta evaluación puede ser el examen final, mientras que se podrá optar por parciales por la vía virtual.
+
+- Habrá una nueva inscripción. ¿Cuántos estudiantes se anotarán?
+Tampoco lo sabemos, pero tendremos en cuenta no sobrecargar a las materias.
+
+- ¿Qué plataforma para clases virtuales usaremos?
+La Facultad va a dar soporte para zoom, pero cada uno puede usar lo que quiera. Desde el Departamento estamos estudiando este tema y en la lista de profesores se intercambiaron varias propuestas. Trataremos de hacer un resumen de las ideas que andan dando vuelta.
+
+
+No se inquieten. Si van a dar de forma virtual, intentaremos hacer lo mejor posible. Probablemente no sea el cuatrimestre más fácil ni el más prolijo, pero seguro será el cuatrimestre en que más aprenderemos. Vayamos de a poco. Tenemos tiempo para organizarnos. Pueden ir pensando en alternativas. Necesitamos ser creativos, porque acá no hay libreto. Yo opino que si no se pueden dar todos los temas, mala suerte, se darán algunos menos; que si no se pueden hacer dos parciales, podemos inventarnos algo distinto. Pero esa es solo mi opinión. También podemos pensar que es simplemente imposible dar nuestra materia a distancia.
+
+Lo importante es que no nos angustiemos por esto. Cuidemos nuestra salud y la de nuestras familias y amigos. Pongamos ahí nuestro foco y usemos diez horas semanales para pensar en qué hacer con nuestra materia.
+
+Saludos»
 
 ### Departamento de Física
 
