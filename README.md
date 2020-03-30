@@ -7,6 +7,9 @@ alrededor de las "clases virtuales" en Exactas, UBA. Esta modalidad, planteada d
   * [Declaración del Partido Obrero](#declaración-partido-obrero)
   * [Declaración AGD Exactas](#declaración-agd-exactas)
   * [Declaración del CECEN](#declaración-cecen)
+  * [Declaración de Consejeros Departamentales](#declaración-codepers)
+  * [Declaración AGD Psico](https://www.facebook.com/agd.psicologia/posts/2569623953356002)
+  * [Declaración AGD Económicas](https://mailchi.mp/302217e5c72c/sobre-la-virtualizacin-sin-planificacin-ni-apoyo-institucional)
   * [Declaración de ADUNLU - Docentes de la Univ. de Luján](https://www.facebook.com/notes/adunlu/es-posible-la-continuidad-pedag%C3%B3gica/1293491900841133/)
 2. [Declaraciones Departamentos de Facultad de Cs. Exactas y Naturales](#declaraciones-departamentos-exactas)
   * [Computación](#computación)
@@ -16,6 +19,7 @@ alrededor de las "clases virtuales" en Exactas, UBA. Esta modalidad, planteada d
 5. [Otras notas](#notas)
   * [¿Por qué es necesario el aprobado y promoción Automática? ABC España](https://www.abc.es/familia/educacion/abci-necesario-aprobado-general-y-promocion-automatica-curso-202003270217_noticia.html)
   * [Educar en tiempos de pandemia, por Guillermo Mastrini (director Comunicación social UNQ)](#educar-en-tiempos-de-pandemia)
+  * ["Docencia universitaria, coronavirus y trabajo a distancia", nota de Patricio Grande, sec. adjunto de ADUNLU](https://prensaobrera.com/universidad/68158-docencia-universitaria-coronavirus-y-trabajo-a-distancia)
 
 
 ## Declaraciones de sindicatos y organizaciones
@@ -49,6 +53,7 @@ alrededor de las "clases virtuales" en Exactas, UBA. Esta modalidad, planteada d
   Numerosas clases de distintas materias de la facultad se caracterizan por estar centradas en el discurso del/la docente, por lo que lxs docentes de la facultad, en su gran mayoría, no hemos explorado nunca esta reformulación de la modalidad de clases. (...) Por todo esto, para la correcta planificación, el diseño e implementación de este tipo de cursos a distancia, lxs docentes deberíamos recibir una verdadera capacitación docente (algo que menciona el convenio colectivo de trabajo que la UBA se niega a aplicar) y no simplemente asesorías, tutoriales, consejos o “tips” sobre como armar los cursos a distancia.»
 
 
+
 ### Declaración CECEN
 [Link](https://www.facebook.com/CECEN.UBA/photos/a.541108565903116/4089131184434152/?type=3&theater)
 
@@ -58,6 +63,57 @@ Por otro lado, llama a que toda la carga caiga sobre los docentes en un contexto
 
 «Autoridades, docentes y estudiantes **debemos estar comprometides en hacer todo el trabajo necesario** para que nadie pierda el cuatrimestre o atrase su carrera por esta situación excepcional, sobre todo garantizando las condiciones para aquellos estudiantes con dificultades para acceder a los recursos para las modalidades virtuales»
 
+### Declaración Codepers
+(Consejeros departamentales Exactas UBA)
+
+
+#### CARTA A LES DOCENTES Y AUTORIDADES DE EXACTAS
+
+Somos representantes departamentales estudiantiles de todos los departamentos. Sabemos que nos enfrentamos a un cuatrimestre muy difícil por la situación del COVID-19. El mundo y nuestro país se enfrenta a un gran desafío, y en la universidad pública tenemos nuestro propio desafío: seguir educando. Esto implica un gran compromiso tanto para docentes como para estudiantes. Somos conscientes de que como estudiantes deberemos hacer un gran esfuerzo extra este cuatrimestre para aprender los conocimientos necesarios de manera virtual, y esperamos que nuestrxs docentes también hagan ese esfuerzo para enseñarlos. Sabemos que nuestra facultad tendrá problemáticas muy variadas a la hora de establecer clases virtuales, por la heterogeneidad de sus modalidades. Creemos necesario que las autoridades de la facultad tomen un rol activo en la organización de estas clases, brindando más herramientas para la decisión de cómo organizan las clases para así no cargar sobre les docentes todas las dificultades que implica adaptarse a esta nueva modalidad. También sabemos que será imposible igualar la cantidad y la calidad de la enseñanza que se logra de manera presencial. Pero debemos afrontar estas cuestiones con un compromiso: **hacer nuestro mayor esfuerzo para garantizar la mayoría de las materias, y que ningún estudiante pierda el cuatrimestre por esta situación**.							
+
+Como representantes estudiantiles en los departamentos, pedimos que se nos haga parte de la discusión al respecto de la adaptación a la modalidad virtual de las materias de nuestros departamentos. Creemos que podemos aportar, y que la mejor forma de que dichas modalidades sean exitosas es coordinando las mismas con les estudiantes que luego tomaremos esas clases. También, pedimos que se consideren los siguientes puntos, para los cuales nos ofrecemos a colaborar para abordarlos:
+
+
+- Que en aquellas materias con modalidades mixtas donde alguna de sus instancias no se pueda dar virtual (por ejemplo, materias con teórica, problemas y clases de laboratorio), se dicten igual las mismas, quedando las instancias presenciales para realizar en el momento que sea posible con un cronograma especial, ya sea final del cuatrimestre, receso invernal, segundo cuatrimestre o receso de verano.
+
+- Que se reconsidere en régimen de correlatividades de las materias del segundo cuatrimestre, en función de estas excepcionalidades en la oferta de materias y el dictado de las mismas.
+
+
+- Que se busque una solución para dar cierre a las materias de verano, considerando instancias de evaluación virtuales para los recuperatorios en caso de ser posible.
+
+
+
+Poniéndonos a disposición para trabajar en conjunto y esperando que así sea los saludamos.
+
+
+Lola Fainstein, DEGE
+Leandro Daniel Scicolone, DEGE
+Adela Cifarelli, DBBE
+Josefina Caso, DBBE
+Ramón Silva Nieto, DFBMC
+Gonzalo Sánchez, DFBMC
+Camila Luzardo, DQB
+Facundo Niklison, DQB
+Emilia Colombo, DQB
+Yuri Berta, DQO
+Marcos Gramajo, DQIAQF
+Daiana Martínez, DCAO
+Melina Martínez, DCAO
+Anabella Tarino, DCG
+Natalia Helver, DCG
+Juan Ignacio Ledesma, DCG
+Sol Nabot, DM
+Leonard Ehrhorn, DM
+Muriel Bonetto, DF
+Cecilia Fossa Olandini, DF
+Alexis Luszczak, DF
+Oscar Martínez Acuña, DF
+Mariana Milicich, DC
+Gianfranco Zamboni, DC
+María Belén Ticona, DC
+Tobias Carreira, DC
+Juan Nahuel Diana, CCCB
+Juan Ignacio Beiroa, CCPEMS»
 
 ## Declaraciones Departamentos Exactas
 
