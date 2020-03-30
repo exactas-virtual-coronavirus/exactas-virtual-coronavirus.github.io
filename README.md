@@ -4,13 +4,13 @@ Esta página pretende ser un racconto de artículos y declaraciones acerca de la
 alrededor de las "clases virtuales" en Exactas, UBA. Esta modalidad, planteada desde las gestiones como salida ante la pandemia del Coronavirus, ha generado numerosos debates que intentan ser plasmados en los distintos artículos y declaraciones.
 
 1. [Declaraciones de sindicatos y organizaciones políticas](#declaraciones-de-sindicatos-y-organizaciones)
-  * [Declaración del Partido Obrero](#declaración-partido-obrero)
   * [Declaración AGD Exactas](#declaración-agd-exactas)
   * [Declaración del CECEN](#declaración-cecen)
   * [Declaración de Consejeros Departamentales](#declaración-codepers)
   * [Declaración AGD Psico](https://www.facebook.com/agd.psicologia/posts/2569623953356002)
   * [Declaración AGD Económicas](https://mailchi.mp/302217e5c72c/sobre-la-virtualizacin-sin-planificacin-ni-apoyo-institucional)
   * [Declaración de ADUNLU - Docentes de la Univ. de Luján](https://www.facebook.com/notes/adunlu/es-posible-la-continuidad-pedag%C3%B3gica/1293491900841133/)
+  * [Declaración del Partido Obrero](#declaración-partido-obrero)
 2. [Comunicados de Facultades de la UBA](#uba)
   * [Exactas](#exactas)
   * [Arquitectura, Diseño y Urbanismo](#fadu)  
@@ -19,7 +19,7 @@ alrededor de las "clases virtuales" en Exactas, UBA. Esta modalidad, planteada d
   * [¿Por qué es necesario el aprobado y promoción Automática? ABC España](https://www.abc.es/familia/educacion/abci-necesario-aprobado-general-y-promocion-automatica-curso-202003270217_noticia.html)
   * [Educar en tiempos de pandemia, por Guillermo Mastrini (director Comunicación social UNQ)](#educar-en-tiempos-de-pandemia)
   * ["Docencia universitaria, coronavirus y trabajo a distancia", nota de Patricio Grande, sec. adjunto de ADUNLU](https://prensaobrera.com/universidad/68158-docencia-universitaria-coronavirus-y-trabajo-a-distancia)
-
+  * ["Cuarentena docente: entre las mamaderas, las compras y las clases virtuales"](https://www.infobae.com/historias/2020/03/28/cuarentena-docente-entre-las-mamaderas-las-compras-y-las-clases-virtuales/)
 
 ## Declaraciones de sindicatos y organizaciones
 
