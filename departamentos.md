@@ -1,7 +1,11 @@
+layout: page
+title: "Departamentos y materias"
+permalink: /departamentos/
+
 # Declaraciones Departamentos Exactas
 
 * [Computación](#computación)
-* [Química inorgánica](#química-inorgánica) 
+* [Química inorgánica](#química-inorgánica)
 
 ### Computación
 
