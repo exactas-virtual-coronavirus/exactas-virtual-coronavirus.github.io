@@ -11,12 +11,11 @@ alrededor de las "clases virtuales" en Exactas, UBA. Esta modalidad, planteada d
   * [Declaración AGD Psico](https://www.facebook.com/agd.psicologia/posts/2569623953356002)
   * [Declaración AGD Económicas](https://mailchi.mp/302217e5c72c/sobre-la-virtualizacin-sin-planificacin-ni-apoyo-institucional)
   * [Declaración de ADUNLU - Docentes de la Univ. de Luján](https://www.facebook.com/notes/adunlu/es-posible-la-continuidad-pedag%C3%B3gica/1293491900841133/)
-2. [Declaraciones Departamentos de Facultad de Cs. Exactas y Naturales](#declaraciones-departamentos-exactas)
-  * [Computación](#computación)
-3. [Comunicados de Facultades de la UBA](#uba)
+2. [Comunicados de Facultades de la UBA](#uba)
+  * [Exactas](#exactas)
   * [Arquitectura, Diseño y Urbanismo](#fadu)  
-4. [Otras Universidades](#otras)
-5. [Otras notas](#notas)
+3. [Otras Universidades](#otras)
+4. [Otras notas](#notas)
   * [¿Por qué es necesario el aprobado y promoción Automática? ABC España](https://www.abc.es/familia/educacion/abci-necesario-aprobado-general-y-promocion-automatica-curso-202003270217_noticia.html)
   * [Educar en tiempos de pandemia, por Guillermo Mastrini (director Comunicación social UNQ)](#educar-en-tiempos-de-pandemia)
   * ["Docencia universitaria, coronavirus y trabajo a distancia", nota de Patricio Grande, sec. adjunto de ADUNLU](https://prensaobrera.com/universidad/68158-docencia-universitaria-coronavirus-y-trabajo-a-distancia)
@@ -115,43 +114,118 @@ Tobias Carreira, DC
 Juan Nahuel Diana, CCCB
 Juan Ignacio Beiroa, CCPEMS»
 
-## Declaraciones Departamentos Exactas
-
-### Computación
-
-Declaración de la dirección del Departamento de Computación
-
-«Queridos docentes,
-
-Llegamos al final de una semana muy dura, con muchos cambios en la Facultad, pero, sobre todo, con muchos cambios en nuestras vidas. Estamos todos preocupados, con mucha incertidumbre. Tratemos de que nuestro trabajo como docente no nos angustie, no nos agobie, porque ya tenemos muchas otras cosas de qué preocuparnos.
-
-Varios nos escribieron preocupados con preguntas acerca de cómo se implementará el cuatrimestre virtual, que empezaría el 13 de abril. Primero, quiero decirles que no es obligatorio dictar de forma virtual. Los profesores están evaluando si su materia puede o no funcionar de manera virtual. Según el relevamiento que hicimos a principios de la semana, la gran mayoría de las materias del DC se podría dar a distancia, pero algunos piensan que, a causa de los temas o de la dinámica, resultaría imposible o incluso contraproducente para el estudiante. No quiero presionar a nadie; me interesa que cada uno evalúe su caso independiente del resto. Segundo, para ser honesto, hay pocas decisiones tomadas hasta ahora por la Facultad acerca de la implementación de un cuatrimestre virtual. Sin embargo, veo en todas las autoridades muchas ganas de ayudar a los estudiantes y a los docentes a transitar este próximo cuatrimestre de la mejor manera posible. Algunas preguntas que nos hicieron son:
-
-- ¿Se postergará la fecha de finalización del cuatrimestre?
-Aunque no hay ninguna decisión todavía, la idea que maneja la Facultad es que sí.
-
-- ¿Cómo evaluamos virtualmente?
-Nadie sabe. Será una de las cosas que hay que pensar. Lo que sí sabemos es que para la aprobación deberá haber una instancia de evaluación presencial en el momento en que pueda hacerse. Esta evaluación puede ser el examen final, mientras que se podrá optar por parciales por la vía virtual.
-
-- Habrá una nueva inscripción. ¿Cuántos estudiantes se anotarán?
-Tampoco lo sabemos, pero tendremos en cuenta no sobrecargar a las materias.
-
-- ¿Qué plataforma para clases virtuales usaremos?
-La Facultad va a dar soporte para zoom, pero cada uno puede usar lo que quiera. Desde el Departamento estamos estudiando este tema y en la lista de profesores se intercambiaron varias propuestas. Trataremos de hacer un resumen de las ideas que andan dando vuelta.
-
-
-No se inquieten. Si van a dar de forma virtual, intentaremos hacer lo mejor posible. Probablemente no sea el cuatrimestre más fácil ni el más prolijo, pero seguro será el cuatrimestre en que más aprenderemos. Vayamos de a poco. Tenemos tiempo para organizarnos. Pueden ir pensando en alternativas. Necesitamos ser creativos, porque acá no hay libreto. Yo opino que si no se pueden dar todos los temas, mala suerte, se darán algunos menos; que si no se pueden hacer dos parciales, podemos inventarnos algo distinto. Pero esa es solo mi opinión. También podemos pensar que es simplemente imposible dar nuestra materia a distancia.
-
-Lo importante es que no nos angustiemos por esto. Cuidemos nuestra salud y la de nuestras familias y amigos. Pongamos ahí nuestro foco y usemos diez horas semanales para pensar en qué hacer con nuestra materia.
-
-Saludos»
-
-### Departamento de Física
-
-### Química Inorgánica
 
 
 ## UBA
+
+### Exactas
+
+«Secretaría Académica <academica@de.fcen.uba.ar>
+7:44 PM (4 minutes ago)
+to Todos
+
+
+Como indicamos en el correo electrónico del día 22 de marzo pasado, el
+lunes 13 de abril comenzarán las clases de aquellas materias
+correspondientes al primer cuatrimestre 2020 que están en condiciones de
+avanzar con la  modalidad a distancia. Para dar cumplimiento con las 16
+semanas de clase, está previsto que el cuatrimestre culmine el 31 de
+julio.
+
+Les acercamos por este medio material  sobre algunas herramientas, que
+pueden ser utilizadas para el dictado de clases a distancia, junto con
+diversos materiales, para comenzar a familiarizarse con ellas. Desde la
+Secretaría Académica estamos coordinando la elaboración de otros
+documentos de acompañamiento que se les hará llegar a principios de
+abril.
+
+
+***Campus Exactas (http://campus.exactas.uba.ar/)***
+
+Este sitio ha sido diseñado para que la comunidad educativa de Exactas
+pueda desarrollar actividades académicas en entornos virtuales
+permitiendo el contacto interactivo entre estudiantes y docentes o entre
+estudiantes. Este campus utiliza la plataforma educativa Moodle que es
+muy flexible y sencilla (la versión actual que utiliza el campus es la
+3.1.10). Permite a docentes y estudiantes  tener acceso a material de
+estudio, guías de trabajos o de problemas, generación de informes y
+foros de discusión entre otros recursos.
+
+Todos los usuarios del sistema SIU-Guaraní poseen cuenta en el campus:
+el usuario es el DNI y la contraseña la misma que en inscripciones.
+
+Para  los estudiantes o docentes nuevos, el usuario se  genera cuando se
+ingresa por primera vez al campus. En caso de inconvenientes, escribir a
+academica@de.fcen.uba.ar
+
+Para quienes no posean experiencia en Moodle, sugerimos consultar la
+siguiente documentación:
+
+Documentación oficial de Moodle (consultar material para versión 3.1)
+https://docs.moodle.org/31/en/Main_page
+
+Guía de acciones dentro de un aula virtual de Moodle
+http://citep.rec.uba.ar/covid-19-tutoriales/
+
+
+**Zoom**
+
+Zoom es la herramienta elegida por la Facultad para realizar encuentros
+virtuales entre docentes y estudiantes (videoconferencias). Actualmente
+la Facultad se encuentra tramitando la contratación de un número de
+licencias suficiente para todas aquellas materias que sean dictadas en
+modalidad virtual. Una vez que contemos con dichas licencias se
+informará el mecanismo para poder acceder a esta herramienta.
+
+Si piensan utilizar Zoom, les sugerimos que se vayan familiarizando a
+través de los siguientes recursos (algunos en idioma inglés).
+
+Tutoriales en video:
+https://support.zoom.us/hc/es/articles/206618765-Tutoriales-de-Zoom-en-video
+
+Guía de referencia para reuniones (PDF):
+https://support.zoom.us/hc/en-us/article_attachments/360047188071/Zoom_Meetings_Training_Reference_Guide.pdf
+
+Guía de buenas prácticas para eventos en vivo (PDF):
+https://support.zoom.us/hc/en-us/article_attachments/360047066292/Zoom_Online_Event_Best_Practices.pdf
+
+Preguntas frecuentes:
+https://support.zoom.us/hc/es/articles/206175806-Preguntas-principales
+
+Les sugerimos también que prueben el funcionamiento de la herramienta a
+través de cuentas gratuitas que se pueden obtener directamente desde el
+sitio de Zoom (límite de 100 participantes y 40’ de reunión). Zoom puede
+utilizarse desde su plataforma web o desde aplicaciones para
+dispositivos de escritorio o móviles.
+
+Para tramitar una cuenta gratuita:
+https://zoom.us/signup
+
+Para utilizar Zoom en distintos dispositivos:
+https://support.zoom.us/hc/es/categories/200101697-Inicio
+
+
+**Centro de Innovación y Tecnología de la UBA**
+
+El micrositio http://citep.rec.uba.ar/covid-19/ destinado a toda la
+comunidad educativa de la Universidad de Buenos Aires comparte recursos,
+herramientas y cursos, registra ejemplos de buenas prácticas en la
+universidad y habilita espacios de intercambio entre docentes.
+
+Desde Citep se han programado una serie de asesorías sobre distintos
+temas referidos a la enseñanza virtual, que se realizan por Zoom (máximo
+100 participantes). Estas asesorías se realizan los lunes, miércoles y
+viernes hasta el 6/4. Al día siguiente de finalizados los eventos, las
+grabaciones se encontrarán disponibles en el sitio web de Citep. El
+cronograma de las asesorías, que se realiza vía Zoom, puede consultarse
+en http://citep.rec.uba.ar/covid-19-asesorias-en-vivo/.
+
+
+Saludos cordiales,
+
+Secretaria Académica
+Facultad de Ciencias Exactas y Naturales
+Universidad de Buenos Aires»
 
 ### FADU
 
