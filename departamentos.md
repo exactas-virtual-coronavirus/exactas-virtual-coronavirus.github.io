@@ -6,7 +6,6 @@ permalink: /departamentos/
 
 * [Computación](#computación)
 * [Química inorgánica](#química-inorgánica)
-* [IBMC][#ibmc]
 
 ### Computación
 
@@ -133,37 +132,3 @@ Mientras tanto, hasta el "comienzo oficial" del calendario académico el 13/4, g
 
 Gracias por el tiempo, la disposición, el compromiso y el trabajo.
 »
-
-### IBMC
-
-6 de 28,831
-IBMC 2020: NOVEDADES
-Recibidos
-x
-
-
-Estimados docentes auxiliares asignados a IBMC:
-
-En virtud de la situación de aislamiento, los profesores y coordinadores de IBMC hemos decidido implementar las siguientes medidas, las cuales están condicionadas a que el cuatrimestre reinicie el 13 de abril tal cual se anunció. Si hubiera un cambio en la fecha de inicio de cuatrimestre, estas medidas serían revisadas:
-
-1. Se hará una nueva inscripción de alumnos en la materia que, como verán, podría comenzar con algunas actividades virtuales y seguir con actividades presenciales cuando se levante la cuarentena.
-
-2. Los TTPPs, exámenes parciales teóricos, examen práctico y sus recuperatorios se postergan hasta que se levante la cuarentena.
-
-3. Cada profesor grabará las teóricas que ya tenía asignadas. Estas teóricas irán siendo colgadas en el campus virtual en bloques correspondientes aproximadamente a las semanas en que habrían sido dadas presencialmente dentro de un nuevo calendario.
-
-4. Un grupo limitado de docentes auxiliares a designar grabará la resolución de las 10 guías de seminarios. Esto es que si fulano graba la resolución de Proteínas I, por ejemplo, esa grabación estará subida para todos los turnos de seminario. Estos docentes serán elegidos por los profesores y coordinadores.
-
-5. Los coordinadores (Manolo, Melina y Paula) se encargarían de asesorar sobre la tecnología virtual a utilizar para subir las grabaciones de las teóricas y de los seminarios.
-
-6. El resto de los docentes auxiliares tendría como tareas responder a preguntas formuladas por los alumnos por algún medio virtual (que pronto avisaremos) después de haber visto o las teóricas y/o los seminarios de la semana, distribuidos en los 9 turnos de seminarios. No darían clase ni online ni grabada. Esto quiere decir que si hay asignados 3 docentes auxiliares al seminario X, ellos sólo estarán encargados de responder las preguntas de los alumnos inscriptos en el seminario X, por un tiempo semanal limitado a determinar.
-
-7. Las preguntas de teóricas que por su complejidad o especificidad no puedan ser respondidas por los docentes auxiliares serán trasladadas a los profesores.
-
-8. Todo docente auxiliar que por razones familiares/escolares/jardin-maternales/atención de familiares mayores, etc. manifieste imposibilidad de participar en forma virtual de las tareas mencionadas, quedará eximido hasta tanto se levante la cuarentena y las actividades se normalicen. En breve mandaremos otro mail con un google form para que completen si pueden o no formar parte de IBMC virtual.
-
-9. Ninguna de estas actividades será repetida presencialmente el día en que los alumnos puedan volver a la FCEN.
-
-10. El nivel de exigencia de los exámenes parciales a tomarse al levantarse la cuarentena será el habitual.
-
-Saludos
