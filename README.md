@@ -7,12 +7,14 @@ alrededor de las "clases virtuales" en Exactas, UBA. Esta modalidad, planteada d
   * [Declaración AGD Exactas](#declaración-agd-exactas)
   * [Declaración del CECEN](#declaración-cecen)
   * [Declaración de Consejeros Departamentales](#declaración-codepers)
+  * [Declaración de Consejeros de Geología](#declaración-consejeros-geología)
   * [Declaración AGD UBA](https://www.facebook.com/788794954571172/photos/a.788794994571168/2704498383000810)
   * [Declaración AGD Psico](https://www.facebook.com/agd.psicologia/posts/2569623953356002)
   * [Declaración AGD Sociales](https://www.facebook.com/agdsociales/posts/2602792466619777)
   * [Declaración AGD Económicas](https://mailchi.mp/302217e5c72c/sobre-la-virtualizacin-sin-planificacin-ni-apoyo-institucional)
   * [Declaración de ADUNLU - Docentes de la Univ. de Luján](https://www.facebook.com/notes/adunlu/es-posible-la-continuidad-pedag%C3%B3gica/1293491900841133/)
   * [Declaración del Partido Obrero](#declaración-partido-obrero)
+
 2. [Comunicados de Facultades de la UBA](#uba)
   * [Exactas](#exactas)
   * [Arquitectura, Diseño y Urbanismo](#fadu)  
@@ -117,6 +119,23 @@ Juan Nahuel Diana, CCCB
 Juan Ignacio Beiroa, CCPEMS»
 
 
+### Declaración Consejeros Geología
+
+Los representantes de estudiantes del departamento nos dirigimos a ustedes para transmitirles nuestra preocupación con respecto a los siguientes temas:
+
+
+**En primer lugar respecto a la decisión de lxs docentes de no dictar Mineralogía de forma virtual.** Entendemos que esta materia es prioritaria en la carrera e impide al estudiante seguir con las correlatividades. No dudamos del esfuerzo que cada docente ha hecho para buscar todas las herramientas posibles e intentar cumplir con el dictado de la materia, pero de todas formas como estudiantes y representantes de lxs mismxs, tenemos el derecho y el deber de informar que muchxs estudiantes de distintos años de la carrera nos hablaron a nuestros celulares y redes sociales expresando su gran preocupación. En particular lxs de segundo año están ansiosos y angustiados, algunos al límite de abandonar la carrera por este tema, debido a que hay casos que vienen de recursar Mineralogía en 2019. Necesitamos clarificar el asunto, ya que no sabemos realmente qué sucedería con el dictado de la materia en caso de no poder concurrir a la Facultad durante todo el cuatrimestre. Además nos preocupa el panorama que se presentaría en el próximo año si no se dictara la asignatura con respecto a la cantidad de estudiantes. Por esto mismo, **nos gustaría proponer que se comience con el dictado parcial de clases teóricas y en caso de realmente no poder garantizarse al menos una pequeña parte de manera virtual**, empezar a pensar en si es posible dictar esta materia el segundo cuatrimestre. Estamos en contacto también con miembrxs de la comisión curricular, y estamos pensando alternativas que nos gustaría comenzar a discutirlas entre los claustros. De una u otra manera necesitamos poder transmitirle tranquilidad a lxs estudiantes, y para eso necesitamos también formar parte de las discusiones.
+
+Por otro lado, queríamos consultar la situación de Geoquímica, debido a que leímos el último mail enviado por la docente y no entendemos bien si de alguna forma se va a garantizar la cursada a lxs estudiantes de tercer año, aunque esta no comience en el calendario oficial determinado por la Facultad. Entendemos que la misma está contratando ZOOM y está realizando instructivos. Por otro lado, sugerimos que si no es posible dictar las materias en horarios fijos, por problemas de conexión, se pueden subir al campus directamente grabadas. Como representantes estudiantiles queremos realmente ayudar a que se pueda garantizar el dictado de estas materias, y necesitamos saber cuales son las limitaciones para poder contribuir.
+
+Además de lo dicho previamente, queremos agradecer a todxs lxs docentes que están ocupándose, y familiarizándose con estas nuevas tecnologías, por la buena predisposición. Reiteramos nuestro compromiso con lxs docentes, a ayudarlxs en todo lo que sea posible.
+
+
+A la espera de su rta,
+Saludos
+
+Natalia Helver, Juan Ignacio Ledesma, Anabella Tarino
+Representantes estudiantiles del Codep y del Consejo Directivo.
 
 ## UBA
 
