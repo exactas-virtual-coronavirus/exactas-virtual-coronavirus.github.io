@@ -20,7 +20,8 @@ alrededor de las "clases virtuales" en Exactas, UBA. Esta modalidad, planteada d
   * [Exactas](#exactas)
   * [Arquitectura, Diseño y Urbanismo](#fadu)  
 3. Resoluciones y demás
-  * [Resolución SPU 4 de Abril - recomendación](files/RS-2020-SPU.pdf)
+  * [Resolución SPU 3/04 - recomendación](files/RS-2020-SPU.pdf)
+  * [Reprogramación UBA 3/04](files/RS-UBA-2020.pdf)
 4. [Otras notas](#notas)
   * [¿Por qué es necesario el aprobado y promoción Automática? ABC España](https://www.abc.es/familia/educacion/abci-necesario-aprobado-general-y-promocion-automatica-curso-202003270217_noticia.html)
   * [Educar en tiempos de pandemia, por Guillermo Mastrini (director Comunicación social UNQ)](#educar-en-tiempos-de-pandemia)
