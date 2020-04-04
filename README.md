@@ -15,10 +15,12 @@ alrededor de las "clases virtuales" en Exactas, UBA. Esta modalidad, planteada d
   * [Declaración de ADUNLU - Docentes de la Univ. de Luján](https://www.facebook.com/notes/adunlu/es-posible-la-continuidad-pedag%C3%B3gica/1293491900841133/)
   * [Declaración del Partido Obrero](#declaración-partido-obrero)
 
+
 2. [Comunicados de Facultades de la UBA](#uba)
   * [Exactas](#exactas)
   * [Arquitectura, Diseño y Urbanismo](#fadu)  
-3. [Otras Universidades](#otras)
+3. Resoluciones y demás
+  * [Resolución SPU 4 de Abril - recomendación](files/RS-2020-SPU.pdf)
 4. [Otras notas](#notas)
   * [¿Por qué es necesario el aprobado y promoción Automática? ABC España](https://www.abc.es/familia/educacion/abci-necesario-aprobado-general-y-promocion-automatica-curso-202003270217_noticia.html)
   * [Educar en tiempos de pandemia, por Guillermo Mastrini (director Comunicación social UNQ)](#educar-en-tiempos-de-pandemia)
