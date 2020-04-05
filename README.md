@@ -16,9 +16,10 @@ alrededor de las "clases virtuales" en Exactas, UBA. Esta modalidad, planteada d
   * [Declaración del Partido Obrero](#declaración-partido-obrero)
 
 
-2. [Comunicados de Facultades de la UBA](#uba)
+2. [Comunicados de Facultades de la UBA o Universidades](#uba)
   * [Exactas](#exactas)
-  * [Arquitectura, Diseño y Urbanismo](#fadu)  
+  * [Arquitectura, Diseño y Urbanismo](#fadu)
+  * [UNGS](#ungs)  
 3. Resoluciones y demás
   * [Resolución SPU 3/04 - recomendación](files/RS-2020-SPU.pdf)
   * [Reprogramación UBA 3/04](files/RS-UBA-2020.pdf)
@@ -290,6 +291,53 @@ Interesante comunicado que traza varias problemáticas por las cuales no se pued
 
 
 ### Exactas
+
+### UNGS
+Sobre la continuidad pedagógica en la UNGS: escenarios y propuestas
+
+Desde que se inició la situación por todxs conocida debido a la pandemia del COVID-19, la Universidad Nacional de General Sarmiento en su conjunto priorizó el cuidado de la salud de todxs sus integrantes y la adecuación de las actividades para asegurar su continuidad en condiciones excepcionales.
+
+Hasta el momento, hemos trabajado con los plazos que ha definido el Gobierno Nacional en los dos períodos sucesivos de aislamiento obligatorio que se decretaron. Ante la posibilidad de un tercer período, hemos decidido proponer a la comunidad universitaria un plan que anticipe un período más extenso sin clases presenciales y nos permita planificar las asignaturas con mayor previsibilidad,
+
+Este plan se propone como una estrategia de contingencia ante la situación de excepción que atraviesa nuestro país. No reemplaza la modalidad presencial, que sigue siendo la base del proyecto de enseñanza y aprendizaje de la UNGS, sino que busca resolver con creatividad la discontinuidad que genera a nuestro proyecto el necesario período de aislamiento.
+
+En este plan, consideramos dos escenarios.
+
+Escenario 1: las clases presenciales se reinician en junio.
+
+Escenario 2: las clases presenciales se reinician entre mediados de julio y comienzos de agosto.
+
+
+En los dos escenarios, se requiere una reformulación del calendario académico sobre la cual se trabajará en el Comité de Formación.
+
+
+En cualquiera de los dos escenarios, hemos considerado que todas las asignaturas del primer semestre requieren contar, al final del aislamiento, con un período de clases presenciales. Este período no podrá ser el mismo con el que contaríamos habitualmente y requerirá ajustes de calendario diferentes en cada escenario, pero debe ser significativo para que lxs docentes puedan programar las actividades presenciales de enseñanza necesarias para asegurar los principales propósitos formativos de las asignaturas y decidir sobre la regularidad de sus estudiantes.
+
+
+Proponemos entonces a los equipos docentes reprogramar las asignaturas considerando un esquema de desarrollo que consiste en:
+
+·        la primera semana de clase presencial, que ya tuvo lugar,
+
+·        al menos 8 semanas de actividades de distinto tipo en la virtualidad que varían entre los escenarios 1 y 2,
+
+·        un período de hasta 6 semanas presenciales que cada asignatura integrará a su programación en la cantidad y del modo que mejor resulte para el logro de sus principales objetivos educativos.
+
+
+Este plan nos permite asegurar la regularización, en todas las asignaturas en que esto sea posible y, por tanto, la habilitación a quienes las regularicen para presentarse a la evaluación final presencial.
+
+
+Hemos considerado que no es posible que las asignaturas del primer semestre se acrediten por promoción directa. Todas las asignaturas requerirán una instancia presencial de evaluación final, que podrá tomar diferentes formas.
+
+
+Sabemos que tanto docentes como estudiantes están transitando el aislamiento en condiciones que pueden resultar poco propicias para el sostenimiento de actividades formativas en la virtualidad; por no contar en sus hogares con espacios adecuados, por estar a cargo de hijos menores o adultos mayores, por problemas de conectividad, entre otras condiciones. Por ende, las actividades que se propongan deberán contemplar estas condiciones particulares y estar acordes con las disponibilidades de lxs docentes, con el compromiso institucional de contribuir a subsanar aquellas situaciones que así lo requieran.
+
+
+Muchas gracias por los esfuerzos de toda la comunidad educativa para enfrentar esta compleja situación sosteniendo el derecho a la educación.
+
+
+
+Rectorado y Decanatos de los cuatro Institutos
+Universidad Nacional de General Sarmiento
 
 ### Otras Notas
 
