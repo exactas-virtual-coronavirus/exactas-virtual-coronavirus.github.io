@@ -5,6 +5,7 @@ permalink: /departamentos/
 # Declaraciones Departamentos Exactas
 
 * [Computación](#computación)
+* [Mail de agradecimiento a docentes 14/04/2020](#mail-agradecimiento-docentes-dc)
 * [Química inorgánica](#química-inorgánica)
 
 ### Computación
@@ -35,6 +36,38 @@ No se inquieten. Si van a dar de forma virtual, intentaremos hacer lo mejor posi
 Lo importante es que no nos angustiemos por esto. Cuidemos nuestra salud y la de nuestras familias y amigos. Pongamos ahí nuestro foco y usemos diez horas semanales para pensar en qué hacer con nuestra materia.
 
 Saludos»
+
+### Mail agradecimiento Docentes DC
+
+
+Santiago Figueira via dc.uba.ar
+1:29 PM (32 minutes ago)
+to docentes, profesores
+
+Queridos docentes,
+
+El proceso de inscripción terminó. Fue complejo, pero pudimos llevarlo adelante tal cual como lo habíamos diseñado. Decidimos seguir firmemente la política de cupos y de máximo de materias y ser severos con las reglas –no porque seamos severos nosotros, sino porque nos pareció lo más justo para la comunidad de estudiantes.
+
+Los números de las inscripciones ya los dio Paula. La gran mayoría de los estudiantes quedó conforme y fueron muy comprensivos, y muy agradecidos también. Un muy pequeño grupo de estudiantes, sin embargo, fue muy irrespetuoso de nuestro trabajo. Fueron pocos sobre el total, pero en mi cabeza resonaron fuerte. Estudiantes que desconfiaron de los sorteos, o que retóricamente preguntaron quién les devolvería la plata perdida, o que usaron adjetivos muy descalificadores sobre nuestro trabajo fueron palabras que nos lastimaron bastante. Para equilibrar, leí con gran alegría las palabras de apoyo que recibimos de todos ustedes.
+
+Quiero agradecer a todos los que colaboraron en que esto se haga posible.
+
+En primer lugar, tengo que decir que sin el trabajo de Paula, nada de esto se hubiera podido llevar adelante. Fue ella la que trabajó incansablemente para organizar las inscripciones y mirar muchísimas de ellas a mano, una por una. No sé cómo hizo, pero lo logró. A ella, todo mi respeto y agradecimiento.
+
+**Quiero agradecer también a todos los docentes que estuvieron atentos a las novedades y que reaccionaron siempre de forma inmediata y con la mejor predisposición. Fueron flexibles y entendieron el problema. En particular, quiero agradecer a los docentes simples, que tienen seguramente otros trabajos y que dedicaron más tiempo a organizar su materia. Yo sencillamente dejé de investigar (no se lo cuenten a CONICET), pero los simples no pudieron dejar sus otros trabajo de lado.**
+
+Agradezco a docentes que se cambiaron de materia a último momento para pilotear esta crisis, o auxiliares que gentilmente ofrecieron ayuda en materias adicionales.
+
+También nos ayudaron mucho Matías López y Rosenfeld y Viviana Cotik. Hicieron un gran trabajo participando en reuniones de Facultad por el uso de Zoom, proponiendo ideas, bajando las decisiones tomadas a ustedes, y organizando las configuraciones, salas, usuarios, passwords...
+
+Sentimos además un apoyo muy fuerte de todos los codepders estudiantes de computación (y de muchos otros estudiantes, claro).
+
+Finalmente, agradezco a la secretaría administrativa, que nos ayudó (y ayuda) continuamente.
+
+Empieza el cuatrimestre. Les deseo mucha suerte en esta empresa.
+
+Saludos,
+Santi
 
 ### Departamento de Física
 
